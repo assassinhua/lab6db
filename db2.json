@@ -1,0 +1,58 @@
+{
+    "sports": [
+      {
+        "id": 1,
+        "name": "Swimming",
+        "gold": 10,
+        "silver": 8,
+        "bronze": 6,
+        "information": "Swimming is an individual or team sport and event. Competitive swimming is one of the most popular sports worldwide.",
+        "medals": 24
+      },
+      {
+        "id": 2,
+        "name": "Athletics",
+        "gold": 8,
+        "silver": 7,
+        "bronze": 5,
+        "information": "Athletics is a group of sporting events that involves competitive running, jumping, throwing, and walking.",
+        "medals": 20
+      },
+      {
+        "id": 3,
+        "name": "Gymnastics",
+        "gold": 5,
+        "silver": 4,
+        "bronze": 3,
+        "information": "Gymnastics is a sport that includes physical exercises requiring balance, strength, flexibility, agility, coordination, and endurance.",
+        "medals": 12
+      },
+      {
+        "id": 4,
+        "name": "Cycling",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 2,
+        "information": "Cycling, also known as bicycling or biking, is the use of bicycles for transport, recreation, exercise, and sport.",
+        "medals": 9
+      },
+      {
+        "id": 5,
+        "name": "Basketball",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 1,
+        "information": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball.",
+        "medals": 6
+      },
+      {
+        "id": 6,
+        "name": "Football",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 1,
+        "information": "Football is a team sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.",
+        "medals": 4
+      }
+    ]
+  }
